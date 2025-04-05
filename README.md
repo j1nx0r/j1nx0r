@@ -1,5 +1,7 @@
 ## What's up GitHub?  I'm late to the party but I'm here.
-Interested in CTF, BugBounties, and DFIR
+Interested in CTFs, BugBounties, and DFIR
+
+Other than tech, enjoy golf.
 
 <!--
 **j1nx0r/j1nx0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
