@@ -1,4 +1,5 @@
-## Hi there 👋
+## What's up GitHub?  I'm late to the party but I'm here.
+Interested in CTF, BugBounties, and DFIR
 
 <!--
 **j1nx0r/j1nx0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
